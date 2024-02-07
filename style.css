@@ -3,7 +3,11 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+body {
+  background-color: #eeeeee;
+  margin: 12px 5px;
+  border-radius: 5px;
+}
 .wrapper {
   width: 80%;
   max-width: 1200px;
