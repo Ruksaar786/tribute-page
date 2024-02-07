@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-body {
+.main-box {
   background-color: #eeeeee;
   margin: 12px 5px;
   border-radius: 5px;
