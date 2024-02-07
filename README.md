@@ -1,5 +1,3 @@
 # Tribute-page
 
-# development branch
-
-# feature-branch created
+# development branch created
