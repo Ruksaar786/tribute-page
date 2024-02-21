@@ -15,35 +15,26 @@
 }
 header {
   text-align: center;
-  background-color: #eeeeee;
   padding-top: 30px;
   padding-bottom: 15px;
 }
 
 h1 {
-  background-color: orange;
   margin-bottom: 15px;
   font-size: 40px;
 }
-body {
-  background-color: #eeeeee;
-}
-
-main-box {
-  background-color: #eeeeee;
-  margin: 12px 5px;
-  border-radius: 5px;
-}
-
-#title {
-  text-align: center;
-}
-p {
-  text-align: center;
-}
 
 h2 {
-  font-size: 3.25rem;
+  text-align: center;
+}
+
+.hero {
+  background-color: white;
+  margin: 12px;
+}
+
+p {
+  text-align: center;
 }
 
 a {
